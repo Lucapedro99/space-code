@@ -1,0 +1,23 @@
+{
+  "name": "space-code",
+  "version": "1.0.0",
+  "description": "the space in a project ",
+  "main": "server.js",
+  "scripts": {
+    "test": "https://github.com/Lucapedro99/space-code",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucapedro99/space-code.git"
+  },
+  "author": "Luca pedroni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucapedro99/space-code/issues"
+  },
+  "homepage": "https://github.com/Lucapedro99/space-code#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
